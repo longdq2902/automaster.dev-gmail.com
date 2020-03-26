@@ -1,2 +1,2 @@
-# automaster.dev-gmail.com
+# Customize zigbee2mqtt
 my-zigbee-converter
